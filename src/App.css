@@ -1,0 +1,10 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+.faq-list {
+  text-decoration: none;
+}
+.card-img img {
+  max-height: 18rem;
+}
